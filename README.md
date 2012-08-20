@@ -1,4 +1,3 @@
-eclipse-templates
-=================
+#Eclipse Templates
 
-Just a bunch of files
+Just a bunch of files containing eclipse templates.
