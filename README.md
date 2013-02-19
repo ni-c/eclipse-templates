@@ -1,3 +1,3 @@
 #Eclipse Templates
 
-Just a bunch of files containing eclipse templates.
+Code-format, Code-cleanup, Comment-templates and Checkstyle settings for the Eclipse IDE.
