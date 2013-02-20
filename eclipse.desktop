@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=Eclipse
+Name=Eclipse IDE
 Comment=Eclipse Integrated Development Environment
 Icon=icon.xpm
 Exec=eclipse
